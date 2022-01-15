@@ -1,7 +1,8 @@
 I name this file : file2 #This is a modification from developper 1
-=======
 This file name is file2 # second modif.
-
 This is the second file
+Me also
+I try again
+
 
 This is the new change on remote repo from test branch.
